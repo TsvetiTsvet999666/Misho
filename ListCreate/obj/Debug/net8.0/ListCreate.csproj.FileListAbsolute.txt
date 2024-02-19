@@ -1,0 +1,14 @@
+C:\Михаил Кръстев 9а\Lists\ListCreate\bin\Debug\net8.0\ListCreate.exe
+C:\Михаил Кръстев 9а\Lists\ListCreate\bin\Debug\net8.0\ListCreate.deps.json
+C:\Михаил Кръстев 9а\Lists\ListCreate\bin\Debug\net8.0\ListCreate.runtimeconfig.json
+C:\Михаил Кръстев 9а\Lists\ListCreate\bin\Debug\net8.0\ListCreate.dll
+C:\Михаил Кръстев 9а\Lists\ListCreate\bin\Debug\net8.0\ListCreate.pdb
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ListCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ListCreate.AssemblyInfoInputs.cache
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ListCreate.AssemblyInfo.cs
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ListCreate.csproj.CoreCompileInputs.cache
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ListCreate.dll
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\refint\ListCreate.dll
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ListCreate.pdb
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ListCreate.genruntimeconfig.cache
+C:\Михаил Кръстев 9а\Lists\ListCreate\obj\Debug\net8.0\ref\ListCreate.dll
