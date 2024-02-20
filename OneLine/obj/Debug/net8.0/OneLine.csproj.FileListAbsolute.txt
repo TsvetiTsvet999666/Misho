@@ -1,0 +1,15 @@
+D:\HomeWork\Lists\Lists\OneLine\bin\Debug\net8.0\OneLine.exe
+D:\HomeWork\Lists\Lists\OneLine\bin\Debug\net8.0\OneLine.deps.json
+D:\HomeWork\Lists\Lists\OneLine\bin\Debug\net8.0\OneLine.runtimeconfig.json
+D:\HomeWork\Lists\Lists\OneLine\bin\Debug\net8.0\OneLine.dll
+D:\HomeWork\Lists\Lists\OneLine\bin\Debug\net8.0\OneLine.pdb
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.AssemblyInfoInputs.cache
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.AssemblyInfo.cs
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.csproj.CoreCompileInputs.cache
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.sourcelink.json
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.dll
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\refint\OneLine.dll
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.pdb
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\OneLine.genruntimeconfig.cache
+D:\HomeWork\Lists\Lists\OneLine\obj\Debug\net8.0\ref\OneLine.dll

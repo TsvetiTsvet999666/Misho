@@ -1,0 +1,15 @@
+D:\HomeWork\Lists\Lists\ListNames\bin\Debug\net8.0\ListNames.exe
+D:\HomeWork\Lists\Lists\ListNames\bin\Debug\net8.0\ListNames.deps.json
+D:\HomeWork\Lists\Lists\ListNames\bin\Debug\net8.0\ListNames.runtimeconfig.json
+D:\HomeWork\Lists\Lists\ListNames\bin\Debug\net8.0\ListNames.dll
+D:\HomeWork\Lists\Lists\ListNames\bin\Debug\net8.0\ListNames.pdb
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.AssemblyInfoInputs.cache
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.AssemblyInfo.cs
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.csproj.CoreCompileInputs.cache
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.sourcelink.json
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.dll
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\refint\ListNames.dll
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.pdb
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ListNames.genruntimeconfig.cache
+D:\HomeWork\Lists\Lists\ListNames\obj\Debug\net8.0\ref\ListNames.dll

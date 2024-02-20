@@ -1,0 +1,15 @@
+D:\HomeWork\Lists\Lists\SameNumberList\bin\Debug\net8.0\SameNumberList.exe
+D:\HomeWork\Lists\Lists\SameNumberList\bin\Debug\net8.0\SameNumberList.deps.json
+D:\HomeWork\Lists\Lists\SameNumberList\bin\Debug\net8.0\SameNumberList.runtimeconfig.json
+D:\HomeWork\Lists\Lists\SameNumberList\bin\Debug\net8.0\SameNumberList.dll
+D:\HomeWork\Lists\Lists\SameNumberList\bin\Debug\net8.0\SameNumberList.pdb
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.AssemblyInfoInputs.cache
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.AssemblyInfo.cs
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.csproj.CoreCompileInputs.cache
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.sourcelink.json
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.dll
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\refint\SameNumberList.dll
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.pdb
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\SameNumberList.genruntimeconfig.cache
+D:\HomeWork\Lists\Lists\SameNumberList\obj\Debug\net8.0\ref\SameNumberList.dll

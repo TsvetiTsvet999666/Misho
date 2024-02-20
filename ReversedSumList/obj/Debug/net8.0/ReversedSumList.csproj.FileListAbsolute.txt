@@ -1,0 +1,15 @@
+D:\HomeWork\Lists\Lists\ReversedSumList\bin\Debug\net8.0\ReversedSumList.exe
+D:\HomeWork\Lists\Lists\ReversedSumList\bin\Debug\net8.0\ReversedSumList.deps.json
+D:\HomeWork\Lists\Lists\ReversedSumList\bin\Debug\net8.0\ReversedSumList.runtimeconfig.json
+D:\HomeWork\Lists\Lists\ReversedSumList\bin\Debug\net8.0\ReversedSumList.dll
+D:\HomeWork\Lists\Lists\ReversedSumList\bin\Debug\net8.0\ReversedSumList.pdb
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.AssemblyInfoInputs.cache
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.AssemblyInfo.cs
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.csproj.CoreCompileInputs.cache
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.sourcelink.json
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.dll
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\refint\ReversedSumList.dll
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.pdb
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ReversedSumList.genruntimeconfig.cache
+D:\HomeWork\Lists\Lists\ReversedSumList\obj\Debug\net8.0\ref\ReversedSumList.dll

@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\STUDENTS-1212-4\\.nuget\\packages\\": {}
+    "C:\\Users\\Misho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Михаил Кръстев 9а\\Lists\\ListCreate\\ListCreate.csproj",
+      "projectUniqueName": "D:\\HomeWork\\Lists\\Lists\\ListCreate\\ListCreate.csproj",
       "projectName": "ListCreate",
-      "projectPath": "C:\\Михаил Кръстев 9а\\Lists\\ListCreate\\ListCreate.csproj",
-      "packagesPath": "C:\\Users\\STUDENTS-1212-4\\.nuget\\packages\\",
-      "outputPath": "C:\\Михаил Кръстев 9а\\Lists\\ListCreate\\obj\\",
+      "projectPath": "D:\\HomeWork\\Lists\\Lists\\ListCreate\\ListCreate.csproj",
+      "packagesPath": "C:\\Users\\Misho\\.nuget\\packages\\",
+      "outputPath": "D:\\HomeWork\\Lists\\Lists\\ListCreate\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\STUDENTS-1212-4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Misho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

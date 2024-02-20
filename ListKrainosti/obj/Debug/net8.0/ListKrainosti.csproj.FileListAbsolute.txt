@@ -1,0 +1,15 @@
+D:\HomeWork\Lists\Lists\ListKrainosti\bin\Debug\net8.0\ListKrainosti.exe
+D:\HomeWork\Lists\Lists\ListKrainosti\bin\Debug\net8.0\ListKrainosti.deps.json
+D:\HomeWork\Lists\Lists\ListKrainosti\bin\Debug\net8.0\ListKrainosti.runtimeconfig.json
+D:\HomeWork\Lists\Lists\ListKrainosti\bin\Debug\net8.0\ListKrainosti.dll
+D:\HomeWork\Lists\Lists\ListKrainosti\bin\Debug\net8.0\ListKrainosti.pdb
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.AssemblyInfoInputs.cache
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.AssemblyInfo.cs
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.csproj.CoreCompileInputs.cache
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.sourcelink.json
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.dll
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\refint\ListKrainosti.dll
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.pdb
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ListKrainosti.genruntimeconfig.cache
+D:\HomeWork\Lists\Lists\ListKrainosti\obj\Debug\net8.0\ref\ListKrainosti.dll

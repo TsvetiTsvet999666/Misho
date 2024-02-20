@@ -1,0 +1,15 @@
+D:\HomeWork\Lists\Lists\NamesList2\bin\Debug\net8.0\NamesList2.exe
+D:\HomeWork\Lists\Lists\NamesList2\bin\Debug\net8.0\NamesList2.deps.json
+D:\HomeWork\Lists\Lists\NamesList2\bin\Debug\net8.0\NamesList2.runtimeconfig.json
+D:\HomeWork\Lists\Lists\NamesList2\bin\Debug\net8.0\NamesList2.dll
+D:\HomeWork\Lists\Lists\NamesList2\bin\Debug\net8.0\NamesList2.pdb
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.AssemblyInfoInputs.cache
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.AssemblyInfo.cs
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.csproj.CoreCompileInputs.cache
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.sourcelink.json
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.dll
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\refint\NamesList2.dll
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.pdb
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\NamesList2.genruntimeconfig.cache
+D:\HomeWork\Lists\Lists\NamesList2\obj\Debug\net8.0\ref\NamesList2.dll

@@ -1,0 +1,15 @@
+D:\HomeWork\Lists\Lists\ListEven\bin\Debug\net8.0\ListEven.exe
+D:\HomeWork\Lists\Lists\ListEven\bin\Debug\net8.0\ListEven.deps.json
+D:\HomeWork\Lists\Lists\ListEven\bin\Debug\net8.0\ListEven.runtimeconfig.json
+D:\HomeWork\Lists\Lists\ListEven\bin\Debug\net8.0\ListEven.dll
+D:\HomeWork\Lists\Lists\ListEven\bin\Debug\net8.0\ListEven.pdb
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.AssemblyInfoInputs.cache
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.AssemblyInfo.cs
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.csproj.CoreCompileInputs.cache
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.sourcelink.json
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.dll
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\refint\ListEven.dll
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.pdb
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ListEven.genruntimeconfig.cache
+D:\HomeWork\Lists\Lists\ListEven\obj\Debug\net8.0\ref\ListEven.dll
